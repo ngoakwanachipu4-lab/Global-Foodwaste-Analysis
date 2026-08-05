@@ -1,0 +1,215 @@
+country,region,Confidence in estimate,combined figures (kg/capita/year),Household estimate (kg/capita/year),Retail estimate (kg/capita/year),Food service estimate (kg/capita/year),Household estimate (tonnes/year),Retail estimate (tonnes/year),Food service estimate (tonnes/year),total_food_waste_tonnes,estimated_population,household_share_percentage,largest_waste_source
+Afghanistan,Southern Asia,Very Low Confidence,126,82,16,28,3109153,594982,1051783,4755918,37916500,65.37,Household
+Albania,Southern Europe,Very Low Confidence,127,83,16,28,238492,45058,79651,363201,2873398,65.66,Household
+Algeria,Northern Africa,Very Low Confidence,135,91,16,28,3918529,673360,1190335,5782224,43060758,67.77,Household
+Andorra,Southern Europe,Low Confidence,123,84,13,26,6497,988,1971,9456,77345,68.71,Household
+Angola,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,3169523,497755,879908,4547186,31695230,69.7,Household
+Antigua and Barbuda,Latin America and the Caribbean,Low Confidence,113,74,13,26,7178,1244,2483,10905,97000,65.82,Household
+Argentina,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,3243563,700380,1238100,5182043,45049486,62.59,Household
+Armenia,Western Asia,Very Low Confidence,137,93,16,28,275195,46259,81775,403229,2959086,68.25,Household
+Aruba,Latin America and the Caribbean,Low Confidence,113,74,13,26,7858,1362,2718,11938,106189,65.82,Household
+Australia,Australia and New Zealand,High Confidence,133,102,9,22,2563110,238248,546340,3347698,25128529,76.56,Household
+Austria,Western Europe,High Confidence,76,39,9,28,349249,77289,254191,680729,8955103,51.31,Household
+Azerbaijan,Western Asia,Very Low Confidence,137,93,16,28,934872,157148,277800,1369820,10052387,68.25,Household
+Bahamas,Latin America and the Caribbean,Low Confidence,113,74,13,26,28792,4990,9960,43742,389081,65.82,Household
+Bahrain,Western Asia,Low Confidence,171,132,13,26,216161,21026,41966,279153,1637583,77.43,Household
+Bangladesh,Southern Asia,Very Low Confidence,84,65,16,3,10618233,2550080,544436,13712749,163357431,77.43,Household
+Barbados,Latin America and the Caribbean,Low Confidence,113,74,13,26,21215,3677,7339,32231,286689,65.82,Household
+Belarus,Eastern Europe,Very Low Confidence,112,68,16,28,646356,147838,261341,1055535,9505235,61.23,Household
+Belgium,Western Europe,Medium Confidence,80,50,10,20,576036,112100,227371,915507,11520720,62.92,Household
+Belize,Latin America and the Caribbean,Very Low Confidence,97,53,16,28,20564,6106,10794,37464,388000,54.89,Household
+Benin,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,1175297,184573,326280,1686150,11752970,69.7,Household
+Bermuda,Northern America,Low Confidence,113,74,13,26,4606,801,1598,7005,62243,65.75,Household
+Bhutan,Southern Asia,Very Low Confidence,123,79,16,28,60000,11935,21098,93033,759494,64.49,Household
+Bolivia (Plurin. State of),Latin America and the Caribbean,Very Low Confidence,124,80,16,28,922012,180068,318315,1420395,11525150,64.91,Household
+Bosnia and Herzegovina,Southern Europe,Very Low Confidence,127,83,16,28,273269,51628,91266,416163,3292398,65.66,Household
+Botswana,Sub-Saharan Africa,Very Low Confidence,136,92,16,28,211802,36030,63693,311525,2302196,67.99,Household
+Brazil,Latin America and the Caribbean,Very Low Confidence,104,60,16,28,12578308,3300862,5835112,21714282,209638467,57.93,Household
+British Virgin Islands,Latin America and the Caribbean,Low Confidence,113,74,13,26,2218,384,767,3369,29973,65.84,Household
+Brunei Darussalam,South-eastern Asia,Low Confidence,119,80,13,26,34739,5551,11080,51370,434238,67.63,Household
+Bulgaria,Eastern Europe,Very Low Confidence,112,68,16,28,478667,109483,193539,781689,7039221,61.23,Household
+Burkina Faso,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,2086893,317831,561848,2966572,20261097,70.35,Household
+Burundi,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,1184127,180341,318799,1683267,11496379,70.35,Household
+Cabo Verde,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,54765,8601,15204,78570,547650,69.7,Household
+Cambodia,South-eastern Asia,Very Low Confidence,130,86,16,28,1423397,257853,455820,2137070,16551128,66.61,Household
+Cameroon,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,2577064,404713,715433,3697210,25770640,69.7,Household
+Canada,Northern America,Low Confidence,118,79,13,26,2938321,479284,956615,4374220,37193937,67.17,Household
+Cayman Islands,Latin America and the Caribbean,Low Confidence,113,74,13,26,4797,831,1660,7288,64824,65.82,Household
+Central African Republic,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,487305,74216,131196,692717,4731117,70.35,Household
+Chad,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,1637656,249413,440901,2327970,15899573,70.35,Household
+Chile,Latin America and the Caribbean,Low Confidence,113,74,13,26,1400946,242800,484611,2128357,18931703,65.82,Household
+China,Eastern Asia,Very Low Confidence,126,64,16,46,91646213,22424705,65377741,179448659,1431972078,51.07,Household
+"China, Hong Kong SAR",Eastern Asia,Low Confidence,110,71,13,26,530985,95267,190147,816399,7478662,65.04,Household
+"China, Macao SAR",Eastern Asia,Low Confidence,110,71,13,26,45728,8204,16375,70307,644056,65.04,Household
+Colombia,Latin America and the Caribbean,Very Low Confidence,114,70,16,28,3545499,787320,1391787,5724606,50649986,61.93,Household
+Comoros,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,84742,13308,23526,121576,847420,69.7,Household
+Congo,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,535851,84152,148760,768763,5358510,69.7,Household
+Costa Rica,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,365609,78946,139556,584111,5077903,62.59,Household
+Côte d’Ivoire,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,2561140,402212,711012,3674364,25611400,69.7,Household
+Croatia,Southern Europe,Low Confidence,123,84,13,26,348070,52915,105613,506598,4143690,68.71,Household
+Cuba,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,820910,177259,313349,1311518,11401528,62.59,Household
+Curaçao,Latin America and the Caribbean,Low Confidence,113,74,13,26,12079,2093,4178,18350,163230,65.83,Household
+Cyprus,Western Asia,Low Confidence,134,95,13,26,113306,15356,30649,159311,1192695,71.12,Household
+Czechia,Eastern Europe,Low Confidence,109,70,13,26,746840,136943,273327,1157110,10669143,64.54,Household
+Dem. People's Rep. Korea,Eastern Asia,Very Low Confidence,125,81,16,28,2070528,401425,709621,3181574,25562074,65.08,Household
+Dem. Rep. of the Congo,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,8912903,1357425,2399593,12669921,86533039,70.35,Household
+Denmark,Northern Europe,High Confidence,132,81,30,21,469449,172003,119134,760586,5795667,61.72,Household
+Djibouti,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,96962,15227,26918,139107,969620,69.7,Household
+Dominica,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,5201,1123,1985,8309,72236,62.59,Household
+Dominican Republic,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,777849,167960,296913,1242722,10803458,62.59,Household
+Ecuador,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,1258415,271729,480349,2010493,17477986,62.59,Household
+Egypt,Northern Africa,Very Low Confidence,135,91,16,28,9136941,1570093,2775538,13482572,100405945,67.77,Household
+El Salvador,Latin America and the Caribbean,Very Low Confidence,124,80,16,28,516828,100936,178430,796194,6460350,64.91,Household
+Equatorial Guinea,Sub-Saharan Africa,Very Low Confidence,136,92,16,28,124670,21208,37491,183369,1355109,67.99,Household
+Eritrea,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,359132,54695,96688,510515,3486718,70.35,Household
+Estonia,Northern Europe,Medium Confidence,100,78,5,17,102743,6243,22013,130999,1317218,78.43,Household
+Eswatini,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,114341,17957,31743,164041,1143410,69.7,Household
+Ethiopia,Sub-Saharan Africa,Very Low Confidence,136,92,16,28,10327236,1752936,3098760,15178932,112252565,68.04,Household
+Faroe Islands,Northern Europe,Low Confidence,115,76,13,26,3710,624,1245,5579,48816,66.5,Household
+Fiji,Melanesia,Very Low Confidence,120,76,16,28,67385,13920,24607,105912,886645,63.62,Household
+Finland,Northern Europe,Low Confidence,101,65,13,23,361937,70875,128927,561739,5568262,64.43,Household
+France,Western Europe,Medium Confidence,135,85,26,24,5522358,1667568,1594579,8784505,64968918,62.86,Household
+French Polynesia,Polynesia,Low Confidence,118,79,13,26,21978,3578,7142,32698,278203,67.22,Household
+Gabon,Sub-Saharan Africa,Very Low Confidence,136,92,16,28,199748,33980,60068,293796,2171174,67.99,Household
+Gambia,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,241095,36719,64909,342723,2340728,70.35,Household
+Georgia,Western Asia,Very Low Confidence,145,101,16,28,403573,62511,110504,576588,3995772,69.99,Household
+Germany,Western Europe,High Confidence,102,75,6,21,6263775,498244,1718433,8480452,83517000,73.86,Household
+Ghana,Sub-Saharan Africa,Very Low Confidence,128,84,16,28,2555332,475743,840996,3872071,30420619,65.99,Household
+Gibraltar,Southern Europe,Low Confidence,123,84,13,26,2840,432,862,4134,33810,68.7,Household
+Greece,Southern Europe,Medium Confidence,175,142,7,26,1483996,77332,267812,1829140,10450676,81.13,Household
+Greenland,Northern America,Low Confidence,113,74,13,26,4178,726,1450,6354,56459,65.75,Household
+Grenada,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,8112,1752,3097,12961,112667,62.59,Household
+Guam,Micronesia,Low Confidence,118,79,13,26,13165,2143,4278,19586,166646,67.22,Household
+Guatemala,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,1273466,274979,486095,2034540,17687028,62.59,Household
+Guinea,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,1311530,199744,353099,1864373,12733301,70.35,Household
+Guinea-Bissau,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,197266,30043,53109,280418,1915204,70.35,Household
+Guyana,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,56700,12243,21643,90586,787500,62.59,Household
+Haiti,Latin America and the Caribbean,Very Low Confidence,127,83,16,28,936940,176157,311403,1424500,11288434,65.77,Household
+Honduras,Latin America and the Caribbean,Very Low Confidence,124,80,16,28,780504,152431,269461,1202396,9756300,64.91,Household
+Hungary,Eastern Europe,Low Confidence,133,94,13,26,908669,124074,247642,1280385,9666691,70.97,Household
+Iceland,Northern Europe,Low Confidence,115,76,13,26,25827,4343,8668,38838,339829,66.5,Household
+India,Southern Asia,Very Low Confidence,94,50,16,28,68760163,21371087,37778821,127910071,1375203260,53.76,Household
+Indonesia,South-eastern Asia,Very Low Confidence,121,77,16,28,20938252,4232646,7482277,32653175,271925351,64.12,Household
+Iran (Islamic Republic of),Southern Asia,Very Low Confidence,115,71,16,28,5884842,1296792,2292410,9474044,82885099,62.12,Household
+Iraq,Western Asia,Very Low Confidence,164,120,16,28,4734434,614814,1086840,6436088,39453617,73.56,Household
+Ireland,Northern Europe,Low Confidence,124,55,13,56,267073,62551,274135,603759,4855873,44.24,Food service
+Isle of Man,Northern Europe,Low Confidence,115,76,13,26,6445,1084,2163,9692,84803,66.5,Household
+Israel,Western Asia,Medium Confidence,178,100,51,27,848395,437997,233752,1520144,8483950,55.81,Household
+Italy,Southern Europe,High Confidence,97,67,4,26,4059806,219552,1548291,5827649,60594119,69.66,Household
+Jamaica,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,213552,46112,81515,341179,2966000,62.59,Household
+Japan,Eastern Asia,Medium Confidence,88,64,9,15,8159891,1095308,1870735,11125934,127498297,73.34,Household
+Jordan,Western Asia,Very Low Confidence,137,93,16,28,939897,157993,279293,1377183,10106419,68.25,Household
+Kazakhstan,Central Asia,Very Low Confidence,120,76,16,28,1404584,290148,512910,2207642,18481368,63.62,Household
+Kenya,Sub-Saharan Africa,Medium Confidence,141,99,11,31,5217367,576411,1637020,7430798,52700677,70.21,Household
+Kiribati,Micronesia,Very Low Confidence,135,91,16,28,10704,1839,3251,15794,117626,67.77,Household
+Kuwait,Western Asia,Low Confidence,134,95,13,26,397706,53898,107577,559181,4186379,71.12,Household
+Kyrgyzstan,Central Asia,Very Low Confidence,135,91,16,28,583951,100346,177387,861684,6417044,67.77,Household
+Lao People's Dem. Rep.,South-eastern Asia,Very Low Confidence,130,86,16,28,618994,112133,198223,929350,7197605,66.61,Household
+Latvia,Northern Europe,Low Confidence,115,76,13,26,145263,24427,48755,218445,1911355,66.5,Household
+Lebanon,Western Asia,Very Low Confidence,149,105,16,28,717491,107225,189547,1014263,6833248,70.74,Household
+Lesotho,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,211661,33240,58760,303661,2116610,69.7,Household
+Liberia,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,507043,77222,136510,720775,4922748,70.35,Household
+Libya,Northern Africa,Very Low Confidence,120,76,16,28,513146,106002,187385,806533,6751921,63.62,Household
+Liechtenstein,Western Europe,Low Confidence,111,72,13,26,2724,487,972,4183,37833,65.12,Household
+Lithuania,Northern Europe,Low Confidence,115,76,13,26,210241,35354,70564,316159,2766329,66.5,Household
+Luxembourg,Western Europe,Medium Confidence,117,89,7,21,54951,4433,12868,72252,617427,76.05,Household
+Madagascar,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,2769594,421806,745649,3937049,26889262,70.35,Household
+Malawi,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,1913062,291357,515048,2719467,18573417,70.35,Household
+Malaysia,South-eastern Asia,Medium Confidence,260,91,79,90,2921577,2518199,2861537,8301313,32105242,35.19,Household
+Maldives,Southern Asia,Very Low Confidence,115,71,16,28,37688,8305,14681,60674,530817,62.12,Household
+Mali,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,2018765,307456,543506,2869727,19599660,70.35,Household
+Malta,Southern Europe,Low Confidence,168,129,13,26,56812,5642,11261,73715,440403,77.07,Household
+Marshall Islands,Micronesia,Very Low Confidence,120,76,16,28,4452,920,1626,6998,58579,63.62,Household
+Mauritania,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,450720,70783,125127,646630,4507200,69.7,Household
+Mauritius,Sub-Saharan Africa,Low Confidence,132,93,13,26,118626,16267,32467,167360,1275548,70.88,Household
+Mexico,Latin America and the Caribbean,Very Low Confidence,138,94,16,28,11979364,1995310,3527217,17501891,127440043,68.45,Household
+Micronesia (Fed. States of),Micronesia,Very Low Confidence,135,91,16,28,10358,1780,3146,15284,113824,67.77,Household
+Monaco,Western Europe,Low Confidence,111,72,13,26,2795,500,997,4292,38819,65.12,Household
+Mongolia,Eastern Asia,Very Low Confidence,122,78,16,28,250173,50443,89171,389787,3207346,64.18,Household
+Montenegro,Southern Europe,Very Low Confidence,127,83,16,28,51988,9822,17363,79173,626361,65.66,Household
+Morocco,Northern Africa,Very Low Confidence,135,91,16,28,3319524,570427,1008375,4898326,36478286,67.77,Household
+Mozambique,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,3118416,474931,839561,4432908,30275883,70.35,Household
+Myanmar,South-eastern Asia,Very Low Confidence,130,86,16,28,4666125,845282,1494251,7005658,54257267,66.61,Household
+Namibia,Sub-Saharan Africa,Very Low Confidence,136,92,16,28,229344,39015,68968,337327,2492870,67.99,Household
+Nauru,Micronesia,Low Confidence,118,79,13,26,850,138,276,1264,10759,67.25,Household
+Nepal,Southern Asia,Very Low Confidence,123,79,16,28,2249412,447447,790975,3487834,28473570,64.49,Household
+Netherlands,Western Europe,Medium Confidence,87,50,11,26,854855,188068,437180,1480103,17097100,57.76,Household
+New Caledonia,Melanesia,Low Confidence,118,79,13,26,22254,3623,7231,33108,281696,67.22,Household
+New Zealand,Australia and New Zealand,High Confidence,90,61,3,26,291769,14923,122306,428998,4783098,68.01,Household
+Nicaragua,Latin America and the Caribbean,Very Low Confidence,124,80,16,28,524188,102373,180970,807531,6552350,64.91,Household
+Niger,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,2393877,364585,644496,3402958,23241524,70.35,Household
+Nigeria,Sub-Saharan Africa,Very Low Confidence,233,189,16,28,37941470,3143117,5556257,46640844,200748519,81.35,Household
+North Macedonia,Southern Europe,Very Low Confidence,127,83,16,28,172480,32586,57605,262671,2078072,65.66,Household
+Northern Mariana Islands,Micronesia,Low Confidence,118,79,13,26,4501,733,1463,6697,56975,67.21,Household
+Norway,Northern Europe,Medium Confidence,98,79,14,5,423857,74088,26685,524630,5365278,80.79,Household
+Oman,Western Asia,Low Confidence,134,95,13,26,470297,63736,127213,661246,4950495,71.12,Household
+Pakistan,Southern Asia,Very Low Confidence,118,74,16,28,15947645,3387131,5987614,25322390,215508716,62.98,Household
+Palau,Micronesia,Low Confidence,118,79,13,26,1416,231,460,2107,17924,67.2,Household
+Panama,Latin America and the Caribbean,Low Confidence,113,74,13,26,313897,54402,108582,476881,4241851,65.82,Household
+Papua New Guinea,Melanesia,Very Low Confidence,135,91,16,28,798767,137260,242642,1178669,8777659,67.77,Household
+Paraguay,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,510256,110179,194770,815205,7086889,62.59,Household
+Peru,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,2354806,508472,898853,3762131,32705639,62.59,Household
+Philippines,South-eastern Asia,Very Low Confidence,130,86,16,28,9334477,1690968,2989216,14014661,108540430,66.61,Household
+Poland,Eastern Europe,Low Confidence,95,56,13,26,2119455,485392,968807,3573654,37847411,59.31,Household
+Portugal,Southern Europe,Low Confidence,123,84,13,26,861786,131011,261488,1254285,10259357,68.71,Household
+Puerto Rico,Latin America and the Caribbean,Low Confidence,113,74,13,26,216839,37581,75008,329428,2930257,65.82,Household
+Qatar,Western Asia,Low Confidence,134,95,13,26,267724,36283,72418,376425,2818147,71.12,Household
+Republic of Korea,Eastern Asia,Low Confidence,110,71,13,26,3657764,656263,1309852,5623879,51517803,65.04,Household
+Republic of Moldova,Eastern Europe,Very Low Confidence,120,76,16,28,307419,63238,111789,482446,4044987,63.72,Household
+Romania,Eastern Europe,Low Confidence,109,70,13,26,1352979,248086,495161,2096226,19328271,64.54,Household
+Russian Federation,Eastern Europe,Medium Confidence,75,33,14,28,4868564,2001062,4033088,10902714,147532242,44.65,Household
+Rwanda,Sub-Saharan Africa,Very Low Confidence,208,164,16,28,2075405,197489,349112,2622006,12654909,79.15,Household
+Saint Kitts and Nevis,Latin America and the Caribbean,Low Confidence,113,74,13,26,3903,676,1350,5929,52743,65.83,Household
+Saint Lucia,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,13241,2859,5054,21154,183903,62.59,Household
+Saint Martin (French part),Latin America and the Caribbean,Low Confidence,113,74,13,26,2809,487,972,4268,37959,65.82,Household
+Saint Vincent & Grenadines,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,8011,1730,3058,12799,111264,62.59,Household
+Samoa,Polynesia,Very Low Confidence,120,76,16,28,14923,3083,5449,23455,196355,63.62,Household
+San Marino,Southern Europe,Low Confidence,123,84,13,26,2857,434,867,4158,34012,68.71,Household
+Sao Tome and Principe,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,21422,3364,5947,30733,214220,69.7,Household
+Saudi Arabia,Western Asia,High Confidence,151,105,20,26,3594080,673502,876260,5143842,34229333,69.87,Household
+Senegal,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,1622980,254879,450564,2328423,16229800,69.7,Household
+Serbia,Southern Europe,Very Low Confidence,105,83,16,6,726196,137199,52633,916028,8749349,79.28,Household
+Seychelles,Sub-Saharan Africa,Low Confidence,132,93,13,26,9128,1252,2498,12878,98151,70.88,Household
+Sierra Leone,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,802371,122200,216020,1140591,7790010,70.35,Household
+Singapore,South-eastern Asia,Low Confidence,119,80,13,26,465355,74361,148418,688134,5816938,67.63,Household
+Sint Maarten (Dutch part),Latin America and the Caribbean,Low Confidence,113,74,13,26,3134,543,1084,4761,42351,65.83,Household
+Slovakia,Eastern Europe,Low Confidence,109,70,13,26,381273,69911,139538,590722,5446757,64.54,Household
+Slovenia,Southern Europe,Medium Confidence,61,34,7,20,71107,13910,41741,126758,2091382,56.1,Household
+Solomon Islands,Melanesia,Very Low Confidence,135,91,16,28,60963,10476,18519,89958,669923,67.77,Household
+Somalia,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,1585898,241530,426966,2254394,15397068,70.35,Household
+South Africa,Sub-Saharan Africa,Very Low Confidence,84,40,16,28,2329228,915865,1619024,4864117,58230700,47.89,Household
+South Sudan,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,1136015,173014,305846,1614875,11029272,70.35,Household
+Spain,Southern Europe,Low Confidence,116,77,13,26,3613954,598760,1195080,5407794,46934468,66.83,Household
+Sri Lanka,Southern Asia,Very Low Confidence,120,76,16,28,1617738,333508,589559,2540805,21286026,63.67,Household
+State of Palestine,Western Asia,Very Low Confidence,145,101,16,28,501602,77910,137726,717238,4966356,69.94,Household
+Sudan,Northern Africa,Very Low Confidence,141,97,16,28,4162396,669608,1183703,6015707,42911299,69.19,Household
+Suriname,Latin America and the Caribbean,Very Low Confidence,116,72,16,28,42112,9093,16075,67280,584889,62.59,Household
+Sweden,Northern Europe,High Confidence,112,81,10,21,812948,100364,205746,1119058,10036395,72.65,Household
+Switzerland,Western Europe,Low Confidence,125,72,13,40,615790,110067,343656,1069513,8552639,57.58,Household
+Syrian Arab Republic,Western Asia,Very Low Confidence,148,104,16,28,1771842,266980,471955,2510777,17036942,70.57,Household
+Tajikistan,Central Asia,Very Low Confidence,141,97,16,28,906209,145783,257708,1309700,9342361,69.19,Household
+Thailand,South-eastern Asia,Very Low Confidence,123,79,16,28,5478532,1088960,1925014,8492506,69348506,64.51,Household
+Timor-Leste,South-eastern Asia,Very Low Confidence,130,86,16,28,111643,20224,35752,167619,1298174,66.61,Household
+Togo,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,830017,126411,223463,1179891,8058417,70.35,Household
+Tonga,Polynesia,Very Low Confidence,120,76,16,28,7912,1634,2889,12435,104105,63.63,Household
+Trinidad and Tobago,Latin America and the Caribbean,Low Confidence,113,74,13,26,103119,17872,35671,156662,1393500,65.82,Household
+Tunisia,Northern Africa,Very Low Confidence,135,91,16,28,1064407,182908,323336,1570651,11696780,67.77,Household
+Turkey,Western Asia,Very Low Confidence,137,93,16,28,7762575,1304858,2306668,11374101,83468548,68.25,Household
+Turkmenistan,Central Asia,Very Low Confidence,120,76,16,28,449895,92936,164288,707119,5919671,63.62,Household
+Turks and Caicos Islands,Latin America and the Caribbean,Low Confidence,113,74,13,26,2824,489,977,4290,38162,65.83,Household
+Tuvalu,Polynesia,Very Low Confidence,120,76,16,28,878,181,321,1380,11553,63.62,Household
+Uganda,Sub-Saharan Africa,Very Low Confidence,147,103,16,28,4546237,692387,1223969,6462593,44138223,70.35,Household
+Ukraine,Eastern Europe,Very Low Confidence,120,76,16,28,3344904,688070,1216338,5249312,44011895,63.72,Household
+United Arab Emirates,Western Asia,Low Confidence,134,95,13,26,923625,125173,249836,1298634,9722368,71.12,Household
+United Kingdom,Northern Europe,High Confidence,98,77,4,17,5199825,283627,1114248,6597700,67530195,78.81,Household
+United Rep. of Tanzania,Sub-Saharan Africa,Very Low Confidence,163,119,16,28,6907649,907219,1603740,9418608,58047471,73.34,Household
+United States of America,Northern America,High Confidence,139,59,16,64,19359951,5151313,20934827,45446091,328134763,42.6,Food service
+United States Virgin Islands,Latin America and the Caribbean,Low Confidence,113,74,13,26,7732,1340,2675,11747,104486,65.82,Household
+Uruguay,Latin America and the Caribbean,Low Confidence,113,74,13,26,255892,44349,88517,388758,3458000,65.82,Household
+Uzbekistan,Central Asia,Very Low Confidence,135,91,16,28,3001868,515841,911881,4429590,32987560,67.77,Household
+Vanuatu,Melanesia,Very Low Confidence,135,91,16,28,27296,4691,8292,40279,299956,67.77,Household
+Venezuela (Boliv. Rep. of),Latin America and the Caribbean,Very Low Confidence,116,72,16,28,2065461,445994,788407,3299862,28686958,62.59,Household
+Viet Nam,South-eastern Asia,Very Low Confidence,120,76,16,28,7346717,1508689,2666991,11522397,96667329,63.76,Household
+Yemen,Western Asia,Very Low Confidence,148,104,16,28,3026946,456099,806270,4289315,29105250,70.57,Household
+Zambia,Sub-Saharan Africa,Very Low Confidence,122,78,16,28,1391729,279350,493822,2164901,17842679,64.29,Household
+Zimbabwe,Sub-Saharan Africa,Very Low Confidence,144,100,16,28,1458564,229059,404920,2092543,14585640,69.7,Household
