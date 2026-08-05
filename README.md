@@ -24,27 +24,21 @@ That last question drives the design. The dataset's confidence ratings are treat
 
 ## What's inside
 
-- **KPI strip** — global total, per-capita average, household share, data-confidence flag
+- **KPI strip** — global total, per-capita average, Countries in Scope, data-confidence flag
 - **Regional breakdown** — total tonnage by UN region
 - **Source split** — household vs. retail vs. food service, as a share-of-waste stream
 - **Top 15 contributors** — absolute tonnage, colour-coded by per-capita intensity
-- **Intensity extremes** — highest and lowest per-capita waste, decoupled from population size
 - **ESG insight panel** — three framed takeaways for a leadership or board-level readout
 
 ## Tools
 
 - Databricks SQL, to clean, prepare and explore the data
-- PowerBI to generate the dashboard
-
-
-- `Fraunces` (display serif) + `IBM Plex Sans` / `IBM Plex Mono` (body/data) via Google Fonts
-- CSS-driven bar charts and a conic-gradient donut chart
-- Dark, field-report-inspired visual language (soil/moss palette) — a nod to environmental fieldwork rather than a generic BI template
+- PowerBI to generate the dashboard and ER Diagram
+- Miro, to generate a workflow
 
 ## Data source
 
 Country-level food waste estimates (household, retail, food service — kg/capita/year and tonnes/year), population, and confidence ratings, structured in the style of the **UNEP Food Waste Index**.
-
 
 
 *Built by Ngoakwana Sonia Chipu — Environmental & Social Manager  — applying data analytics to ESG, SHE governance, and environmental monitoring
